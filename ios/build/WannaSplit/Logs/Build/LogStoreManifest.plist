@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>4BA06E81-2E94-4CFB-B499-1D98D23B1CE7</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4BA06E81-2E94-4CFB-B499-1D98D23B1CE7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WannaSplit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WannaSplit</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project WannaSplit with scheme WannaSplit and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>579743585.22179699</real>
+			<key>timeStoppedRecording</key>
+			<real>579743591.36310697</real>
+			<key>title</key>
+			<string>Building project WannaSplit with scheme WannaSplit and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4BA06E81-2E94-4CFB-B499-1D98D23B1CE7</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

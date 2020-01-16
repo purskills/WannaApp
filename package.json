@@ -1,0 +1,52 @@
+{
+  "name": "WannaSplit",
+  "version": "0.0.1",
+  "private": true,
+  "rnpm": {
+    "assets": [
+      "./src/assets/fonts"
+    ]
+  },
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.3.4",
+    "axios": "^0.18.0",
+    "formik": "^1.5.4",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "native-base": "^2.12.1",
+    "react": "16.8.3",
+    "react-native": "0.59.5",
+    "react-native-camera": "^2.9.0",
+    "react-native-dialog-input": "^1.0.7",
+    "react-native-gesture-handler": "^1.2.1",
+    "react-native-icon-badge": "^1.1.3",
+    "react-native-keyboard-avoiding-view": "^1.0.0",
+    "react-native-modal": "^11.0.1",
+    "react-native-picker-module": "^1.0.1",
+    "react-native-picker-select": "^6.1.0",
+    "react-native-svg": "^9.4.0",
+    "react-native-svg-uri": "^1.2.3",
+    "react-navigation": "^3.9.1",
+    "react-redux": "^7.0.3",
+    "redux": "^4.0.1",
+    "redux-persist": "^5.10.0",
+    "redux-saga": "^1.0.2",
+    "validator": "^10.11.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/runtime": "^7.4.4",
+    "babel-jest": "^24.7.1",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "jest": "^24.7.1",
+    "metro-react-native-babel-preset": "^0.53.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
